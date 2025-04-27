@@ -35,7 +35,7 @@ function Title() {
             variants={itemVariants}
             className="text-9xl drop-shadow-sm"
           >
-            v
+            V
           </motion.h1>
           <motion.h1
             // data-scroll-speed="4"
