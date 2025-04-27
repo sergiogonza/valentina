@@ -79,11 +79,11 @@ function Bottom() {
         <span className="w-max md:w-auto">
           Made with &hearts; by{" "}
           <Link
-            href={"https://talhasiddique.com"}
+            href={""}
             target="_blank"
             className="underline decoration-solid"
           >
-            Talha Siddique
+            Valentina López Arango Consultoría
           </Link>
         </span>
       </div>
