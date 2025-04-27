@@ -55,7 +55,7 @@ function Bottom() {
             })
           }
         >
-          shop
+          Nuevo
         </li>
         <li
           style={{ padding: "2rem" }}
@@ -68,7 +68,7 @@ function Bottom() {
             })
           }
         >
-          new arrival
+          Online
         </li>
       </ul>
       <div
