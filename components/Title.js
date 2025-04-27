@@ -102,7 +102,7 @@ function Title() {
           }}
           className="text-lg capitalize text-body"
         >
-          Inpsire. Create. Believe
+          Inspira. Adapta. Lidera.
         </motion.h2>
       </motion.div>
     </>
