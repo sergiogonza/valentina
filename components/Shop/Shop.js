@@ -68,16 +68,16 @@ function Shop() {
         ref={ref}
         className="relative md:left-[35%] z-10 top-0 min-h-screen w-[400vw] bg-grey flex justify-start items-center pl-0 md:pl-[30%] font-semibold"
       >
-        <Product title={"Man Basics"} img={img1} />
-        <Product title={"Tops"} img={img2} />
-        <Product title={"Sweatshirts"} img={img3} />
-        <Product title={"Ethnic wear"} img={img4} />
-        <Product title={"Blazers"} img={img5} />
-        <Product title={"Suits"} img={img6} />
-        <Product title={"Antiques"} img={img7} />
-        <Product title={"Jewellery"} img={img8} />
-        <Product title={"Watches"} img={img9} />
-        <Product title={"Special Edition"} img={img10} />
+        <Product title={"Estrategias Personalizadas"} img={img1} />
+        <Product title={"Gestión de Riesgos Regulatorios"} img={img2} />
+        <Product title={"Inteligencia Regulatoria"} img={img3} />
+        <Product title={"Análisis de Políticas"} img={img4} />
+        <Product title={"Gestión de Riesgos Geopolíticos"} img={img5} />
+        <Product title={"Transformación Estratégica"} img={img6} />
+        <Product title={"Innovación y Aplicaciones Reales"} img={img7} />
+        <Product title={"Consultoría en Mercados Globales"} img={img8} />
+        <Product title={"Adaptación al Cambio Estratégico"} img={img9} />
+        <Product title={"Soluciones de Crecimiento Empresarial"} img={img10} />
       </div>
     </section>
   );
