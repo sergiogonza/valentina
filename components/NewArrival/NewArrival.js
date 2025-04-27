@@ -60,19 +60,13 @@ function NewArrival() {
         ref={ref}
         className="absolute top-0 left-1/2 -translate-x-1/2 translate-y-0 w-[55vw] md:w-[25vw] h-auto flex flex-col justify-center items-center"
       >
-        <Product img={img1} title="Expansión Empresarial" />
-        <Product img={img2} title="Prevención de Riesgos Regulatorios" />
-        <Product img={img3} title="Alianzas Estratégicas" />
-        <Product img={img4} title="Mapeo de Escenarios" />
+        <Product img={img1} title="Diagnóstico Geopolítico y Macroeconómico del Sector" />
+        <Product img={img2} title="Diagnóstico Empresarial para PYMES" />
+        <Product img={img3} title="PDF: Información Estratégica Básica" />
+        <Product img={img4} title="PDF: Conociendo la Incertidumbre del Mercado" />
       </div>
       <div className="hidden md:absolute md:top-0 md:right-0 md:w-[20%] text-lg font-light p-8 z-11 text-primary">
-        Descubre el poder de la previsión estratégica con nuestras estrategias
-        personalizadas. Diseñadas para ayudar a las empresas a adaptarse y
-        sobresalir en mercados globales inciertos, nuestros métodos combinan
-        inteligencia regulatoria con perspectivas económicas. Desde el análisis
-        de políticas hasta la gestión de riesgos geopolíticos, cada estrategia
-        refleja un pensamiento proactivo. Eleva tu negocio con nuestra
-        experiencia: una fusión de innovación y aplicaciones reales.
+        Descubre el poder de la previsión estratégica con nuestras herramientas de diagnóstico gratuitas. Ofrecemos un análisis detallado del panorama global y del sector, proporcionando perspectivas sobre la economía, riesgos regulatorios y escenarios geopolíticos. Además, te brindamos materiales esenciales como diagnósticos para PYMES y documentos PDF sobre cómo enfrentar la incertidumbre del mercado. Prepárate para transformar tu estrategia empresarial y sobresalir en mercados dinámicos e inciertos.
       </div>
     </section>
   );
