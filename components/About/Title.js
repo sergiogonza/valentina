@@ -19,7 +19,7 @@ function Title() {
         className="font-semibold relative top-4 left-[40%] md:left-[5%] z-10 md:text-9xl text-6xl text-primary"
         style={{ fontFamily: europaGrotesk.style.fontFamily, x: y }}
       >
-        About us
+        Sobre Valentina
       </motion.h1>
     </div>
   );
