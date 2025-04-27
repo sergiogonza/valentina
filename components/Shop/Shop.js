@@ -15,7 +15,6 @@ import img8 from "@/public/Images/8.webp";
 import img9 from "@/public/Images/9.webp";
 import img10 from "@/public/Images/10.webp";
 
-
 function Shop() {
   gsap.registerPlugin(ScrollTrigger);
   const ref = useRef(null);
@@ -46,8 +45,6 @@ function Shop() {
     };
   }, []);
 
-
-
   return (
     <section
       className="w-full min-h-screen height-auto overflow-hidden flex justify-start items-start relative"
@@ -58,12 +55,13 @@ function Shop() {
       <Title />
       <div className="w-full md:w-[35%] bg-body text-text min-h-screen z-10 fixed left-0 flex items-center justify-center">
         <p className="text-lg font-light w-[80%]" style={{ margin: "0 auto" }}>
-          Dive into the allure of our latest collection at Chicity. Discover a
-          symphony of chic designs and avant-garde details that redefine
-          contemporary style. From the runway to your wardrobe, each piece is a
-          statement, a brushstroke of sophistication that captures the spirit of
-          the modern fashionista. Elevate your look with Chicity's new
-          collection—a fusion of bold expression and timeless allure.
+          Descubre el poder de la previsión estratégica con nuestras estrategias
+          personalizadas. Diseñadas para ayudar a las empresas a adaptarse y
+          sobresalir en mercados globales inciertos, nuestros métodos combinan
+          inteligencia regulatoria con perspectivas económicas. Desde el análisis
+          de políticas hasta la gestión de riesgos geopolíticos, cada estrategia
+          refleja un pensamiento proactivo. Eleva tu negocio con nuestra
+          experiencia: una fusión de innovación y aplicaciones reales.
         </p>
       </div>
       <div
@@ -80,7 +78,6 @@ function Shop() {
         <Product title={"Jewellery"} img={img8} />
         <Product title={"Watches"} img={img9} />
         <Product title={"Special Edition"} img={img10} />
-
       </div>
     </section>
   );
