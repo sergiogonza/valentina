@@ -35,7 +35,7 @@ function Title() {
             variants={itemVariants}
             className="text-9xl drop-shadow-sm"
           >
-            C
+            E
           </motion.h1>
           <motion.h1
             // data-scroll-speed="4"
@@ -45,34 +45,7 @@ function Title() {
             variants={itemVariants}
             className="text-9xl drop-shadow-sm"
           >
-            H
-          </motion.h1>
-          <motion.h1
-            style={{
-              fontFamily: europaGrotesk.style.fontFamily,
-            }}
-            variants={itemVariants}
-            className="text-9xl drop-shadow-sm"
-          >
-            I
-          </motion.h1>
-          <motion.h1
-            style={{
-              fontFamily: europaGrotesk.style.fontFamily,
-            }}
-            variants={itemVariants}
-            className="text-9xl drop-shadow-sm"
-          >
-            C
-          </motion.h1>
-          <motion.h1
-            style={{
-              fontFamily: europaGrotesk.style.fontFamily,
-            }}
-            variants={itemVariants}
-            className="text-9xl drop-shadow-sm"
-          >
-            I
+            S
           </motion.h1>
           <motion.h1
             style={{
@@ -90,7 +63,61 @@ function Title() {
             variants={itemVariants}
             className="text-9xl drop-shadow-sm"
           >
-            Y
+            R
+          </motion.h1>
+          <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            A
+          </motion.h1>
+          <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            T
+          </motion.h1>
+          <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            É
+          </motion.h1>
+                <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            G
+          </motion.h1>
+                <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            I
+          </motion.h1>
+                <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            A
           </motion.h1>
         </div>
 
