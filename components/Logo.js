@@ -53,7 +53,7 @@ function Logo() {
           }}
           className="text-lg text-primary pb-2 ml-1"
         >
-          Chicity
+          E S T R A T É G I C A
         </motion.span>
       </Link>
     </div>
