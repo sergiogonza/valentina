@@ -1,10 +1,10 @@
 "use client";
 import Product from "./Product";
 import Title from "./Title";
-import img1 from "@/public/Images/11.webp";
-import img2 from "@/public/Images/12.webp";
-import img3 from "@/public/Images/13.webp";
-import img4 from "@/public/Images/14.webp";
+import img1 from "@/public/Images/11.jpg";
+import img2 from "@/public/Images/12.jpg";
+import img3 from "@/public/Images/13.jpg";
+import img4 from "@/public/Images/14.jpg";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useEffect, useRef } from "react";
