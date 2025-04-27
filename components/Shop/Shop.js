@@ -5,15 +5,15 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useEffect, useRef } from "react";
 import Product from "./Product";
 import img1 from "@/public/Images/1.webp";
-import img2 from "@/public/Images/2.webp";
+import img2 from "@/public/Images/2.jpg";
 import img3 from "@/public/Images/3.webp";
-import img4 from "@/public/Images/4.webp";
-import img5 from "@/public/Images/5.webp";
-import img6 from "@/public/Images/6.webp";
-import img7 from "@/public/Images/7.webp";
-import img8 from "@/public/Images/8.webp";
-import img9 from "@/public/Images/9.webp";
-import img10 from "@/public/Images/10.webp";
+import img4 from "@/public/Images/4.jpg";
+import img5 from "@/public/Images/5.jpg";
+import img6 from "@/public/Images/6.jpg";
+import img7 from "@/public/Images/7.jpg";
+import img8 from "@/public/Images/8.jpg";
+import img9 from "@/public/Images/9.jpg";
+import img10 from "@/public/Images/10.jpg";
 
 function Shop() {
   gsap.registerPlugin(ScrollTrigger);
