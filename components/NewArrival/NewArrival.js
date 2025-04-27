@@ -53,7 +53,6 @@ function NewArrival() {
         style={{
           boxShadow: "0 0 0 5vw white",
           border: "3px solid #202020",
-          //   backgroundColor: "aliceblue",
         }}
       ></div>
       <Title />
@@ -67,14 +66,13 @@ function NewArrival() {
         <Product img={img4} title="Mapeo de Escenarios" />
       </div>
       <div className="hidden md:absolute md:top-0 md:right-0 md:w-[20%] text-lg font-light p-8 z-11 text-primary">
-        Discover the allure of Chicity's latest collection—a fusion of bold
-        aesthetics and understated elegance. From sleek, tailored essentials to
-        statement pieces that command attention, each garment is a testament to
-        modern chic. <br />Embrace a palette that mirrors the rich hues of the
-        changing seasons, ensuring effortless transitions from day to night. <br />
-        Elevate your style effortlessly with our curated selection that speaks
-        volumes without saying a word.<br />Welcome to a world where fashion meets
-        finesse, courtesy of Chicity's newest collection.
+        Descubre el poder de la previsión estratégica con nuestras estrategias
+        personalizadas. Diseñadas para ayudar a las empresas a adaptarse y
+        sobresalir en mercados globales inciertos, nuestros métodos combinan
+        inteligencia regulatoria con perspectivas económicas. Desde el análisis
+        de políticas hasta la gestión de riesgos geopolíticos, cada estrategia
+        refleja un pensamiento proactivo. Eleva tu negocio con nuestra
+        experiencia: una fusión de innovación y aplicaciones reales.
       </div>
     </section>
   );
