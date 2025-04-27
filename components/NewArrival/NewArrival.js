@@ -61,10 +61,10 @@ function NewArrival() {
         ref={ref}
         className="absolute top-0 left-1/2 -translate-x-1/2 translate-y-0 w-[55vw] md:w-[25vw] h-auto flex flex-col justify-center items-center"
       >
-        <Product img={img1} title="Denim" />
-        <Product img={img2} title="Cool Dresses" />
-        <Product img={img3} title="Jackets" />
-        <Product img={img4} title="T-shirt" />
+        <Product img={img1} title="Expansión Empresarial" />
+        <Product img={img2} title="Prevención de Riesgos Regulatorios" />
+        <Product img={img3} title="Alianzas Estratégicas" />
+        <Product img={img4} title="Mapeo de Escenarios" />
       </div>
       <div className="hidden md:absolute md:top-0 md:right-0 md:w-[20%] text-lg font-light p-8 z-11 text-primary">
         Discover the allure of Chicity's latest collection—a fusion of bold
