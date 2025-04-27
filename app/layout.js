@@ -15,11 +15,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Chicity-Fashion Brand</title>
-        <meta
-          name="description"
-          content="Experience the allure of cutting-edge design on our fashion brand's animated site. Immerse yourself in a seamless journey with Lenis scroll, enriched by captivating text animations powered by Framer Motion. Elevate your browsing with mesmerizing parallax effects and scroll animations courtesy of GSAP. Styled to perfection with Tailwind CSS and built for performance with SSR on NextJS. This site is not just a showcase—it's a visual masterpiece, where technology meets style."
-        />
+        <title>Valentina López Arango Consultora</title>
+      <meta
+  name="description"
+  content="Descubre el poder de la previsión estratégica con Valentina Consultora. Explora nuestro sitio web animado con desplazamiento fluido de Lenis y textos dinámicos impulsados por Framer Motion. Vive una experiencia inmersiva con efectos de parallax y animaciones de scroll creadas con GSAP. Diseñado con excelencia en Tailwind CSS y optimizado para el máximo rendimiento con SSR en NextJS. Más que un sitio web: una experiencia donde la estrategia y la innovación se encuentran."
+/>
+
       </head>
       <body className={europaGrotesk.className}>{children}</body>
     </html>
