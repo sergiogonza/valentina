@@ -74,6 +74,46 @@ function Title() {
           >
             N
           </motion.h1>
+
+                 <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            T
+          </motion.h1>
+
+                 <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            I
+          </motion.h1>
+
+                 <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            N
+          </motion.h1>
+
+                 <motion.h1
+            style={{
+              fontFamily: europaGrotesk.style.fontFamily,
+            }}
+            variants={itemVariants}
+            className="text-9xl drop-shadow-sm"
+          >
+            A
+          </motion.h1>
          
         </div>
 
