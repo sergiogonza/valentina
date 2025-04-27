@@ -32,7 +32,7 @@ function Footer() {
           className="text-4xl"
           style={{ fontFamily: bonFoyage.style.fontFamily }}
         >
-          Chicity
+          Valentina López Arango Consultoría
         </h3>
       </div>
       <Bottom />
