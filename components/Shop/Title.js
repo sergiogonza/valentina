@@ -19,7 +19,7 @@ function Title() {
         className="font-semibold absolute top-4 left-[5%] z-20 text-6xl md:text-8xl text-text drop-shadow-md"
         style={{ fontFamily: europaGrotesk.style.fontFamily, }}
       >
-        New Collection
+        Nuevo Enfoque
       </h1>
     </div>
   );
